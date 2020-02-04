@@ -2,7 +2,7 @@ import React from 'react';
 import './carrito.css'
 import Producto from './Producto';
 
-//carrito de compras
+//carrito de compras probando git
 const Carrito = ({ carrito, setcarrito }) => (
     <div className="carrito">
         <h2>Tu carrito de compras</h2>
